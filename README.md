@@ -1,1 +1,1 @@
-# obsync-plugin
+Релизы ObSync для BRAT. Исходный код закрыт.
